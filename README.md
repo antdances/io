@@ -2,7 +2,7 @@
 <div align="center">
 
   <!-- markdownlint-disable-next-line -->
-  # Chirpy Jekyll Theme
+  # Chirpy Jekyll Themee
 
   A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 
